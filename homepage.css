@@ -74,12 +74,12 @@ main {
   padding: 15px;
   max-width: 250px;
   text-align: center;
-  }
+}
 
 .anime-card img {
   max-width: 100%;
   border-radius: 5px;
-  }
+}
 
 .anime-card h3 {
   margin: 10px 0;
@@ -99,23 +99,3 @@ footer {
   margin-top: 20px;
 }
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-  
-}
